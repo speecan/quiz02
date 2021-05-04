@@ -11,8 +11,7 @@ default port is `8000`
 or using realize (task runner)
 
 ```bash
-$ go get github.com/oxequa/realize
-$ realize start
+$ go run main.go
 ```
 
 access browser
